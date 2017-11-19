@@ -18,9 +18,9 @@
 # # 目录
 # ----
 # 
-# # 熟悉pytorch
-# * [与Numpy相似的基本操作](/basic_pytorch/basic01.html)
-# * [自动微分](/basic_pytorch/basic02.html)
+# ## 熟悉pytorch
+# * [与Numpy相似的基本操作](./basic_pytorch/basic01.html)
+# * [自动微分](./basic_pytorch/basic02.html)
 # 
 # 
 # # 参考资料
@@ -36,3 +36,9 @@
 # * [Yoshua Bengio实验室MILA开放面向初学者的PyTorch教程](https://github.com/mila-udem/welcome_tutorials)
 #   * ([机器之心翻译](https://www.jiqizhixin.com/articles/2017-11-16-8)) 
 # 
+
+# In[ ]:
+
+
+
+
