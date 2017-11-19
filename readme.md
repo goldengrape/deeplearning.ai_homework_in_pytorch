@@ -15,5 +15,20 @@
 # 目录
 ----
 
-# 熟悉pytorch
+## 熟悉pytorch
 * [与Numpy相似的基本操作](/basic_pytorch/basic01.html)
+* [自动微分](/basic_pytorch/basic02.html)
+
+
+# 参考资料
+* deeplearning.ai课程
+  * [第一门 神经网络与深度学习](https://www.coursera.org/learn/neural-networks-deep-learning/home)
+  * [第二门 深度神经网络优化调参](https://www.coursera.org/learn/deep-neural-network/home)
+  * [第三门 深度学习项目](https://www.coursera.org/learn/machine-learning-projects/home)
+  * [第四门 卷积神经网络](https://www.coursera.org/learn/convolutional-neural-networks/home)
+  * [第五门 序列模型](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
+* [Github上的deeplearning.ai的作业/slides镜像](https://github.com/shahariarrabby/deeplearning.ai)
+* [pytorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
+* [pytorch basic tutorial](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+* [Yoshua Bengio实验室MILA开放面向初学者的PyTorch教程](https://github.com/mila-udem/welcome_tutorials)
+  * ([机器之心翻译](https://www.jiqizhixin.com/articles/2017-11-16-8))
